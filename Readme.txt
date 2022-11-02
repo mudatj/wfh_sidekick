@@ -1,4 +1,4 @@
-Work From Home Side Kick
+# Work From Home Side Kick
 
 Designed to keep your computer active and use as a utility.
 
